@@ -32,8 +32,7 @@ The dataset contains the following columns:
 ## Project Structure
 
 - `Admission_Predict.csv`: Input dataset.
-- `admission_prediction.ipynb`: PySpark script for data analysis and prediction.
-- `requirements.txt`: List of Python dependencies.
+- `Admission_prediction_with_pyspark_ml.ipynb`: PySpark script for data analysis and prediction.
 - `README.md`: Project documentation.
 
 ## Steps in the Project
@@ -46,7 +45,6 @@ The dataset contains the following columns:
 ### Data Preprocessing
 
 - Normalize numerical features.
-- Encode categorical variables (if applicable).
 
 ### Model Building and Evaluation
 
